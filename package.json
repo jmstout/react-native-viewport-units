@@ -1,0 +1,26 @@
+{
+  "name": "react-native-viewport-units",
+  "version": "0.0.1",
+  "description": "Incredibly simple utility for (sort of) using viewport units with React Native.",
+  "license": "MIT",
+  "repository": "jmstout/react-native-viewport-units",
+  "author": {
+    "name": "Jeff Stout",
+    "url": "http://jmstout.com"
+  },
+  "main": "viewport-units.js",
+  "keywords": [
+    "react-native",
+    "viewport",
+    "units",
+    "vw",
+    "vh",
+    "vmin",
+    "vmax",
+    "style",
+    "relative"
+  ],
+  "dependencies": {
+    "react-native": "^0.3.4"
+  }
+}
