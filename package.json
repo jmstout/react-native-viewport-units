@@ -9,17 +9,7 @@
     "url": "http://jmstout.com"
   },
   "main": "viewport-units.js",
-  "keywords": [
-    "react-native",
-    "viewport",
-    "units",
-    "vw",
-    "vh",
-    "vmin",
-    "vmax",
-    "style",
-    "relative"
-  ],
+  "keywords": [ "react-component", "react-native", "react native", "react", "viewport", "units", "vw", "vh", "vmin", "vmax", "css", "style", "relative", "responsive", "ios" ],
   "dependencies": {
     "react-native": "^0.3.4"
   }
