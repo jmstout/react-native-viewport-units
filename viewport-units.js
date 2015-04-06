@@ -1,6 +1,7 @@
 'use strict';
 
-var Dimensions = require('Dimensions')
+var React = require('react-native')
+  , Dimensions = require('Dimensions')
   , {width, height} = Dimensions.get('window');
 
 var units = {
