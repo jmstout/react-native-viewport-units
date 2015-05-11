@@ -27,5 +27,8 @@ var styles = StyleSheet.create({
 });
 ```
 
+## Roadmap
+I would like to add support for orientation changes and reflowing components that use viewport units. I am, however, waiting until something official lands. Keeping a close eye on [418](https://github.com/facebook/react-native/pull/418).
+
 ## License
 MIT © [Jeff Stout](http://jmstout.com)
