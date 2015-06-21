@@ -10,7 +10,7 @@
   },
   "main": "viewport-units.js",
   "peerDependencies": {
-    "react-native": "^0.4.0"
+    "react-native": ">= 0.4.4 < 1.0"
   },
   "keywords": [ "react-component", "react-native", "react native", "react", "viewport", "units", "vw", "vh", "vmin", "vmax", "css", "style", "relative", "responsive", "ios" ]
 }
