@@ -1,6 +1,6 @@
 {
   "name": "react-native-viewport-units",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Incredibly simple utility for (sort of) using viewport units with React Native.",
   "license": "MIT",
   "repository": "jmstout/react-native-viewport-units",
